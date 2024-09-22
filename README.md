@@ -10,8 +10,8 @@ This repository contains a Verilog implementation of a 4-digit Binary-Coded Deci
 - **Modular Design**: Uses a separate BCD counter module for each digit for clear and maintainable code.
 
 ## Files
-- **top_module.v**: Main module implementing the 4-digit BCD counter.
-- **bcd.v**: BCD counter module that counts from 0 to 9.
+- **top_module**: Main module implementing the 4-digit BCD counter.
+- **bcd module**: BCD counter module that counts from 0 to 9.
 
 ## How to Use
 1. Clone the repository to your local machine.
